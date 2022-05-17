@@ -10,7 +10,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import java.time.Duration;
 
-public class RegisterUser {
+public class Test1_RegisterUser {
 
     WebDriver driver;
 

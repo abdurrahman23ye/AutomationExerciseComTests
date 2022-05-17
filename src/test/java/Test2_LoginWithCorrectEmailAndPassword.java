@@ -9,7 +9,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import java.time.Duration;
 
-public class LoginWithCorrectEmailAndPassword {
+public class Test2_LoginWithCorrectEmailAndPassword {
 
     WebDriver driver;
 

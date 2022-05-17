@@ -9,7 +9,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import java.time.Duration;
 
-public class LoginUserWithIncorrectEmailAndPassword {
+public class Test3_LoginUserWithIncorrectEmailAndPassword {
 
     WebDriver driver;
 
@@ -26,14 +26,14 @@ public class LoginUserWithIncorrectEmailAndPassword {
 
     }
 
-/*
+
     @After
     public void tearsDown(){
 
         driver.close();
     }
 
- */
+
 
 
     @Test
