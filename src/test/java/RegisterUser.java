@@ -26,14 +26,14 @@ public class RegisterUser {
         driver.navigate().to("https://www.automationexercise.com/");
 
     }
-/*
+
     @After
     public void tearsDown(){
 
         driver.close();
     }
 
- */
+
 
     @Test
     public void test1(){
